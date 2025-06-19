@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Finding Armstrong Number/Finding Armstrong Number.iml" filepath="$PROJECT_DIR$/Finding Armstrong Number/Finding Armstrong Number.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Finding the GCD of Two Numbers/Finding the GCD of Two Numbers.iml" filepath="$PROJECT_DIR$/Finding the GCD of Two Numbers/Finding the GCD of Two Numbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/mini-projects.iml" filepath="$PROJECT_DIR$/.idea/mini-projects.iml" />
+    </modules>
+  </component>
+</project>
